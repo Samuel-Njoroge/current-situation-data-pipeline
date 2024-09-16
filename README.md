@@ -14,46 +14,46 @@ Current Situation is a company that deals with analyzing data on the current job
 - `Microsoft SQL Server` - Operational database for transactional systems.
 
 ### Skills Developed
-- Data Integration - Azure Data Factory pipeline development.
-- Big Data Processing - Spark SQL for data transformations.
-- ETL/ELT Processes - Understanding and implementing Extract, Transform, Load (ETL) or Extract, Load, Transform (ELT) workflows
-- Data Visualization - Power BI report creation and dashboard design
-- SQL - T-SQL (for MS SQL Server) and Spark SQL
+- `Data Integration` - Azure Data Factory pipeline development.
+- `Big Data Processing` - Spark SQL for data transformations.
+- `ETL/ELT Processes` - Understanding and implementing Extract, Transform, Load (ETL) or Extract, Load, Transform (ELT) workflows.
+- `Data Visualization` - Power BI report creation and dashboard design.
+- `SQL` - T-SQL (for MS SQL Server) and Spark SQL.
 
 ### Use Cases and Justifications
 
-1. MS SQL Server - Operational database for transactional systems
+`1. MS SQL Server - Operational database for transactional systems`
 
 *Justification*
 - Robust relational database system for OLTP workloads
 - Strong integration with Microsoft ecosystem
 
-2. Azure Data Factory - Orchestration and data movement
+`2. Azure Data Factory - Orchestration and data movement`
 
 *Justification*
 - Managed ETL service in Azure
 - Supports various data sources and destinations
 
-3. Azure Blob Storage - Data lake for raw and processed data
+`3. Azure Blob Storage - Data lake for raw and processed data`
 
 *Justification*
 - Cost-effective storage for large volumes of unstructured data
 - Integrates well with other Azure services
 
-4. Databricks - Big data processing and advanced analytics
+`4. Databricks - Big data processing and advanced analytics`
 
 *Justification*
 - Managed Spark environment
 - Collaborative notebook interface
 - Supports machine learning workflows
 
-5. Spark SQL - Data transformation and analysis
+`5. Spark SQL - Data transformation and analysis`
 
 *Justification*
 - SQL interface for Spark, familiar to SQL developers
 - Distributed processing for large-scale data
 
-6. Power BI - User-friendly interface for creating reports and dashboards
+`6. Power BI - User-friendly interface for creating reports and dashboards`
 
 *Justification*
 - Strong integration with Azure and Microsoft products
